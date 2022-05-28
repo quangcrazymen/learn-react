@@ -43,3 +43,5 @@ const sentence = "Germany is a destination"
 // Regular expression / /g
 console.log(sentence.replace(/ /g,"-"))
 //Imperative vs Declarative Programming page 75
+
+// https://www.freecodecamp.org/news/react-fundamentals-for-beginners/
